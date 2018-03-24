@@ -1,0 +1,9 @@
+<includeonly>{{METADATA|Keywords={{{HasKeyword|}}}|HasTitle={{{HasTitle}}}|HasBlurb={{{HasBlurb|}}}|HasSubjectType=UseCase}}
+{{Annotation
+  |AnnotationPredicate=IsCarriedOutBy
+  |AnnotationObjects={{{IsCarriedOutBy|}}}
+}}
+<!-- Inline: MakesUseOfTool -->
+<!-- Inline: AppliesMethodology -->
+</includeonly>
+<noinclude>[[Category:ExampleDomainOntology]]</noinclude>
